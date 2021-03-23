@@ -102,7 +102,7 @@ Here's a walkthrough of implemented user stories:
    > oftentimes annoying. I think the best way to solve this is to find a way to disable the buttons when the computer is playing and able
    > it after it finishes. I tried to solve this issue, but due to my limited experience with javascript and limited time, I was not able
    > to do it and decided to leave it as a feature. If I had a few more hours on this project, I will definitely research this and try to
-   > solve it.
+   > solve it. 
 
 ## License
 

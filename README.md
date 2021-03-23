@@ -24,12 +24,12 @@ The following **optional** features are implemented:
 
 - [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 - [x] Buttons use a pitch (frequency) other than the ones in the tutorial
-- [] More than 4 functional game buttons
+- [ ] More than 4 functional game buttons
 - [x] Playback speeds up on each turn
 - [x] Computer picks a different pattern each time the game is played
 - [x] Player only loses after 3 mistakes (instead of on the first mistake)
 - [x] Game button appearance change goes beyond color (e.g. add an image)
-- [] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
+- [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 - [x] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
